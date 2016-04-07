@@ -1,0 +1,1 @@
+[{"name":"cheese","price":5,"category":" horses"},{"name":"corn","price":4,"category":" horses"},{"name":"beans","price":8,"category":" horses"},{"name":"cheddar","price":" 7","category":" horses"},{"name":"french fries","price":"20","category":"sides"},{"name":"salmon","price":"10","category":"fish"},{"name":"ice cream","price":"100","category":"desserts"}]
